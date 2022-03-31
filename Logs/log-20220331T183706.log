@@ -1,0 +1,4 @@
+2022-03-31 18:37:06,615-4relative [Test worker] INFO  manager.Configuration - Device name is Nex
+2022-03-31 18:37:06,620-4relative [Test worker] INFO  manager.Configuration - Platform: 'Android' & Version: '8.0'
+2022-03-31 18:37:06,621-4relative [Test worker] INFO  manager.Configuration - App version is 0.0.3
+2022-03-31 18:37:27,599-4relative [Test worker] INFO  manager.Configuration - This test run with user and passwordUser(email=vick2247@mail.com, password=Ww123454$)

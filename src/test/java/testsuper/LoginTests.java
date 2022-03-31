@@ -44,7 +44,7 @@ public class LoginTests extends Configuration {
     public void registrationSuccessModel(){
         int index = (int) (System.currentTimeMillis()/1000)%3600;
         User user = User.builder().email("vick"+index+"@mail.com").password("Ww123454$").build();
-        //logger.info("This test run with user and password" + user.toString());
+        logger.info("This test run with user and password" + user.toString());
         boolean plusButtonPresent = new LoginScreen(driver)
                 .complexLogin(user)
                 .skipWizard()
